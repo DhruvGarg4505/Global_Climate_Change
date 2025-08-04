@@ -28,7 +28,7 @@ pip install streamlit pandas matplotlib plotly
 # To run the project on terminal
 Run your project with this command:-
 ```
-streamlit run app.py
+streamlit run co2_data.py
 ```
 # How to use?:-
 Select your preferred language from the dropdown.<br>
